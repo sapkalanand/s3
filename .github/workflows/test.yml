@@ -1,4 +1,4 @@
-name: Upload images
+name: Upload images to test s3
 
 on:
   push:

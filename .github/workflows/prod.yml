@@ -1,4 +1,4 @@
-name: Upload images
+name: Upload images to prod s3
 
 on:
   push:

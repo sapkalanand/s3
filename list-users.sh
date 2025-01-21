@@ -3,7 +3,7 @@
 # GitHub API URL
 API_URL="https://api.github.com"
 
-# GitHub username and personal access token
+# GitHub username and personal access tokennme
 USERNAME=$username
 TOKEN=$token
 
